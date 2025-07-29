@@ -2,6 +2,9 @@
 
 An interactive face generation and manipulation project using StyleGAN2-ADA with Gradio interfaces.
 
+## Demo
+Check out the demo video of the Gradio interface in action: [Demo Video](https://drive.google.com/drive/folders/1Qb57lrzGOZ-UycXSRPz7SiY-OkpD_yBx)
+
 ## Overview
 This project provides a suite of tools for generating, editing, and manipulating realistic human faces using NVIDIA's StyleGAN2-ADA. Features include:
 - Face generation with latent space manipulation
