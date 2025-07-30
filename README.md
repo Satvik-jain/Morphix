@@ -40,3 +40,4 @@ This project provides a suite of tools for generating, editing, and manipulating
    - Style mixing between faces
    - Attribute manipulation with undo/redo
    - Enhanced interface with performance metrics
+   - Try it now: [Open in Colab](https://colab.research.google.com/drive/1SnZVuGz6gwN0LGchpYgDKGa1137dWB7a?usp=sharing)
